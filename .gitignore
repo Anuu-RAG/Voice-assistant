@@ -1,0 +1,16 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Audio files
+*.wav
+*.mp3
+
+# IDE
+.vscode/
+.idea/
